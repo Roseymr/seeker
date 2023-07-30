@@ -54,6 +54,7 @@ TEMPLATES_JSON = f'{path_to_script}/template/templates.json'
 TEMP_KML = f'{path_to_script}/template/sample.kml'
 META_FILE = f'{path_to_script}/metadata.json'
 META_URL = 'https://raw.githubusercontent.com/thewhiteh4t/seeker/master/metadata.json'
+07474602002
 
 if not path.isdir(LOG_DIR):
 	mkdir(LOG_DIR)
